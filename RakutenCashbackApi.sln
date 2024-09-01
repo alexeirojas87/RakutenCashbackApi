@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenCashbackApi", "RakutenCashbackApi\RakutenCashbackApi.csproj", "{103BAEA8-E53C-4959-A57F-2A9619058EE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenCashbackApi", "src\RakutenCashbackApi\RakutenCashbackApi.csproj", "{103BAEA8-E53C-4959-A57F-2A9619058EE2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F1A8C9B7-E3AB-4F35-B15D-830EBFFCE04D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{BC4F2423-41C2-4377-A6C4-4D3476514001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenCashBackApiTests", "..\..\test\RakutenCashBackApiTests\RakutenCashBackApiTests.csproj", "{BB28870A-0084-4044-934D-F534607F3634}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenCashBackApiTests", "test\RakutenCashBackApiTests\RakutenCashBackApiTests.csproj", "{BB28870A-0084-4044-934D-F534607F3634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
