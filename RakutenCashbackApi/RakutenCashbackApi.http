@@ -1,0 +1,6 @@
+@RakutenCashbackApi_HostAddress = http://localhost:5106
+
+GET {{RakutenCashbackApi_HostAddress}}/api/cashbacks/
+Accept: application/json
+
+###
